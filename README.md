@@ -14,7 +14,7 @@ The data was cleaned using Microsoft Excel and analyzed using SQL Server Managem
 
 The cleaned and analyzed data was then visualized using Tableau Public. The visualizations include maps showing the distribution of listings in Lisbon and the average price by neighborhood, as well as bar charts showing the distribution of listings by room type and neighborhood, the top hosts and most expensive listings, and the projected yearly revenue by host.
 
-The final visualizations are shown in the [AirBnB Lisbon Market] (https://public.tableau.com/app/profile/ana.catarina.jesus/viz/AirBnBLisbonMarket/Overview) dashboard.
+The final visualizations are shown in the [AirBnB Lisbon Market](https://public.tableau.com/app/profile/ana.catarina.jesus/viz/AirBnBLisbonMarket/Overview) dashboard.
 
 ## Conclusion
 
